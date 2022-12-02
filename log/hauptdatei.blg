@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'log/hauptdatei.blg'
+[159] biber:340> INFO - === Fr Dez  2, 2022, 12:39:01
+[213] Biber.pm:418> INFO - Reading 'log/hauptdatei.bcf'
+[374] Biber.pm:978> INFO - Found 2 citekeys in bib section 0
+[417] Biber.pm:4401> INFO - Processing section 0
+[441] Biber.pm:4592> INFO - Looking for bibtex file 'bibtex/hauptdatei.bib' for section 0
+[444] bibtex.pm:1713> INFO - LaTeX decoding ...
+[450] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/hauptdatei.bib'
+[617] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[617] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[618] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[618] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[641] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[641] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[641] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[642] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[655] bbl.pm:654> INFO - Writing 'log/hauptdatei.bbl' with encoding 'UTF-8'
+[659] bbl.pm:757> INFO - Output to log/hauptdatei.bbl
