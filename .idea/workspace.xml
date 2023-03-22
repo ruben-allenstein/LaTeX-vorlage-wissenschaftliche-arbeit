@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc12a879-01db-42d9-b7fe-06ee85056708" name="Changes" comment="[ADD] readme updated">
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/Multi-vs-Omni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/OMS-System.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/Shopping_smartphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/babor_ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/customer_journey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/gesamtzufriedenheit_verbraucher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/onlineVsEinzelhandel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/tabletnutzer_2020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abbildungen/verkaufskanaele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/abstract.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bachelorarbeit/src/hauptabschnitt_4.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beispiele.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibtex/hauptdatei.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildlualatex.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hauptdatei.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hauptdatei.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.bcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.fdb_latexmk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.ilg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.ind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.lof" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.lol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.lot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.run.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/hauptdatei.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abbildungen/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anhang/abbildungen/abb_anhang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anhang/anhang.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anhang/anhang_deckblatt.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_structure/abkuerzungen.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_structure/deckblatt.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_structure/erklaerung.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_structure/trennung.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/einleitung.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fazit.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hauptabschnitt_2.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hauptabschnitt_3.tex" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IM9SoF4MUNBXytWQQRrQPxuoAW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rubenallenstein/projects/private/LaTeX-vorlage-wissenschaftliche-arbeit/bachelorarbeit/src/abbildungen&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bachelorarbeit/src/abbildungen" />
+      <recent name="$PROJECT_DIR$/bachelorarbeit" />
+      <recent name="$PROJECT_DIR$/bachelorarbeit/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bachelorarbeit/src/abbildungen" />
+      <recent name="$PROJECT_DIR$/bachelorarbeit/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc12a879-01db-42d9-b7fe-06ee85056708" name="Changes" comment="" />
+      <created>1669980587169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669980587169</updated>
+      <workItem from="1669980588578" duration="26928000" />
+      <workItem from="1670832750229" duration="22705000" />
+      <workItem from="1671269930927" duration="63000" />
+      <workItem from="1671271422222" duration="1521000" />
+      <workItem from="1671632733942" duration="294000" />
+      <workItem from="1671641202421" duration="15000" />
+      <workItem from="1672123764383" duration="4665000" />
+      <workItem from="1674816952901" duration="672000" />
+      <workItem from="1674828114377" duration="21000" />
+      <workItem from="1675184167458" duration="5662000" />
+      <workItem from="1675256389122" duration="1651000" />
+      <workItem from="1675260381146" duration="315000" />
+      <workItem from="1675260855930" duration="5538000" />
+      <workItem from="1675352103782" duration="28921000" />
+      <workItem from="1675948385603" duration="1053000" />
+      <workItem from="1675949469759" duration="159000" />
+      <workItem from="1675949643401" duration="3248000" />
+      <workItem from="1675952996769" duration="3637000" />
+      <workItem from="1676539143521" duration="61672000" />
+    </task>
+    <task id="LOCAL-00001" summary="[UPDATE] ignore idea folder">
+      <created>1669981293713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669981293713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[INIT] latex-vorlage für seminararbeiten">
+      <created>1669981455362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669981455362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[ADD] readme updated">
+      <created>1669982261780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669982261780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[UPDATE] ignore idea folder" />
+    <MESSAGE value="[INIT] latex-vorlage für seminararbeiten" />
+    <MESSAGE value="[ADD] readme updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] readme updated" />
+  </component>
+</project>
