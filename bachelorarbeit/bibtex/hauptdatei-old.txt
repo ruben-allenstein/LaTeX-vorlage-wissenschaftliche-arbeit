@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                                       %    
+%                                  biblatex Dokumentation                               %
+%   https://ftp.tu-chemnitz.de/pub/tex/macros/latex/contrib/biblatex/doc/biblatex.pdf   %
+%                                                                                       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@book{deges2020,
+title = {Grundlagen des E-Commerce: Strategien, Modelle, Instrumente},
+author = {Prof. Dr. Frank Deges},
+publisher = {1. Auflage, Springer Gabler Verlag},
+address = {},
+year = {2020},
+keywords = {eCommerce},
+ISBN = {3658263199},
+}
+
+@book{heinemann2021,
+  title = {Der neue Online-Handel: Geschäftsmodelle, Geschäftssysteme und Benchmarks im E-Commerce},
+  author = {Gerrit Heinemann},
+  publisher = {12. Auflage, Springer Gabler Verlag},
+  address = {},
+  year = {2021},
+  keywords = {eCommerce},
+  ISBN = {3658203536},
+}
+@book{wirtz2022,
+  title = {Multi-Channel-Marketing: Grundlagen – Instrumente – Prozesse},
+  author = {Bernd W. Wirtz},
+  publisher = {3. überarbeitete Auflage, Springer Gabler Verlag},
+  address = {},
+  year = {2022},
+  keywords = {Omni-Channel, Multi-Channel, Marketing},
+  ISBN = {3658033444},
+}
+@book{vallee2018,
+  title = {Omnichannel im Handel: Was nicht nur die Fashionbranche wissen sollte},
+  author = {Franz Vallée, Colin Schulz, Andreas Pumpe},
+  publisher = {1. Auflage, Huss-Verlag},
+  address = {},
+  year = {2018},
+  keywords = {Omni-Channel, Multi-Channel, Marketing, Handel},
+  ISBN = {3946350763},
+}
+
+@online{feldkircher2021,
+  title = {Kampf der Giganten: Amazon vs. eBay},
+  url = {https://www.massiveart.com/de-de/blog/kampf-der-giganten-amazon-vs-ebay},
+  urldate = {2022-12-05},
+  Author = {Oliver Feldkircher},
+  Language = {de},
+  Month = {08},
+  Year = {2020},
+}
+
+@online{mf2005,
+  title = {{MS Windows NT} Kernel Description},
+  url = {http://www.808multimedia.com/winnt/kernel.html},
+  urldate = {2012-09-30},
+  Author = {Musterfrau Maxi, Max Mustermann},
+  Language = {de},
+  Month = {12},
+  Year = {2012},
+}
+
+@online{eaton2006,
+  title = {Timothy Eaton},
+  url = {https://www.thecanadianencyclopedia.ca/en/article/timothy-eaton},
+  urldate = {2022-12-12},
+  Author = {Joy L. Santink},
+  Language = {en},
+  Month = {03},
+  Year = {2015},
+}
+@online{otto2022,
+  title = {Otto Geschäftsbericht 2021/2022},
+  url = {https://static.ottogroup.com/medien/cached/docs/de/bpk/2021-22/otto_group_geschaeftsbericht_2021_22.pdf},
+  urldate = {2022-12-12},
+  Author = {Otto GmbH \& Co KG. Otto},
+  Language = {de},
+  Month = {05},
+  Year = {2022},
+}
+
+@online{statistaOtto2022,
+  title = {Umsatz der Otto Group weltweit in den Geschäftsjahren 2007/08 bis 2021/22},
+  url = {https://de.statista.com/statistik/daten/studie/233607/umfrage/entwicklung-des-umsatzes-des-otto-konzerns/},
+  urldate = {2022-12-12},
+  Author = {L. Rabe},
+  Language = {de},
+  Month = {06},
+  Year = {2022},
+}
+
+@online{lexikon2020,
+  title = {Internet Pure Player},
+  url = {https://wirtschaftslexikon.gabler.de/definition/internet-pure-player-122672/version-378820},
+  urldate = {2022-12-12},
+  Author = {Prof. Dr. Frank Deges},
+  Language = {de},
+  Month = {05},
+  Year = {2020},
+}

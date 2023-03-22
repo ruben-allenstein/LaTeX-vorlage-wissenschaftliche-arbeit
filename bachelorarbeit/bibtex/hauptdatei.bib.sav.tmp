@@ -1,0 +1,259 @@
+@Book{Deges2020,
+  author    = {Frank Deges},
+  publisher = {1. Auflage, Springer Gabler Verlag},
+  title     = {Grundlagen des E-Commerce: Strategien, Modelle, Instrumente},
+  year      = {2020},
+  isbn      = {3658263199},
+  keywords  = {eCommerce},
+}
+
+@Book{Heinemann2021,
+  author    = {Gerrit Heinemann},
+  publisher = {12. Auflage, Springer Gabler Verlag},
+  title     = {Der neue Online-Handel: Geschäftsmodelle, Geschäftssysteme und Benchmarks im E-Commerce},
+  year      = {2021},
+  isbn      = {3658203536},
+  doi       = {https://doi.org/10.1007/978-3-658-23686-1},
+}
+
+@InBook{Wirtz2022,
+  author    = {Bernd W. Wirtz},
+  pages     = {20},
+  publisher = {3. überarbeitete Auflage, Springer Gabler Verlag},
+  title     = {Multi-Channel-Marketing: Grundlagen – Instrumente – Prozesse},
+  year      = {2022},
+  isbn      = {3658033444},
+  keywords  = {Omni-Channel, Multi-Channel, Marketing},
+  timestamp = {2022-12-14},
+  url       = {https://link.springer.com/book/10.1007/978-3-658-03345-3},
+}
+
+@Article{Feldkircher2020,
+  author    = {Oliver Feldkircher},
+  title     = {Kampf der Giganten: Amazon vs. eBay},
+  year      = {2020},
+  month     = aug,
+  timestamp = {2022-12-13},
+  url       = {https://www.massiveart.com/de-de/blog/kampf-der-giganten-amazon-vs-ebay},
+}
+
+@Article{Santink2015,
+  author    = {Joy L. Santink},
+  journal   = {thecanadianencyclopedia},
+  title     = {Timothy Eaton},
+  year      = {2015},
+  month     = mar,
+  timestamp = {2022-12-13},
+  url       = {https://www.thecanadianencyclopedia.ca/en/article/timothy-eaton},
+}
+
+@Article{Otto2022,
+  author    = {GmbH Otto},
+  title     = {Otto Geschäftsbericht 2021/2022},
+  year      = {2022},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://static.ottogroup.com/medien/cached/docs/de/bpk/2021-22/otto_group_geschaeftsbericht_2021_22.pdf},
+}
+
+@Article{Rabe2022,
+  author    = {L. Rabe},
+  title     = {Umsatz der Otto Group weltweit in den Geschäftsjahren 2007/08 bis 2021/22},
+  year      = {2022},
+  month     = jun,
+  timestamp = {2022-12-13},
+  url       = {https://de.statista.com/statistik/daten/studie/233607/umfrage/entwicklung-des-umsatzes-des-otto-konzerns/},
+}
+
+@Article{Deges2020a,
+  author    = {Frank Deges},
+  title     = {Internet Pure Player},
+  year      = {2020},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://wirtschaftslexikon.gabler.de/definition/internet-pure-player-122672/version-378820},
+}
+
+@Book{Chaffey2019,
+  author    = {Dave Chaffey},
+  publisher = {7. Auflage, Pearson},
+  title     = {Digital Business and E-Commerce Management},
+  year      = {2019},
+  isbn      = {1292193336},
+  month     = jun,
+}
+
+@InBook{Heinemann2011,
+  author    = {Gerrit Heinemann},
+  pages     = {23},
+  publisher = {3. Auflage, Springer Gabler Verlag},
+  title     = {Cross-Channel-Management. Integrationserfordernisse im Multi-Channel-Handel},
+  year      = {2011},
+  address   = {Wiesbaden},
+  isbn      = {3834926396},
+}
+
+@InBook{Buttkus2019,
+  author    = {Michael Buttkus and Ralf Eberenz},
+  pages     = {71},
+  publisher = {Springer Verlag, 1. Auflage},
+  title     = {Performance Management in Retail and the Consumer Goods Industry: Best Practices and Case Studies},
+  year      = {2019},
+  isbn      = {303012729X},
+  month     = jul,
+}
+
+@InBook{Heinemann2019,
+  author    = {Gerrit Heinemann},
+  pages     = {53},
+  publisher = {10. Auflage, Springer Gabler Verlag},
+  title     = {Der neue Online-Handel - Geschäftsmodelle, Geschäftssysteme und Benchmarks im E-Commerce},
+  year      = {2019},
+  address   = {Wiesbaden},
+  edition   = {10},
+  isbn      = {3658203536},
+  doi       = {https://doi.org/10.1007/978-3-658-23686-1},
+  timestamp = {2022-12-13},
+}
+
+@InBook{Jaeger2016,
+  author    = {Dr. Reingard Jäger},
+  pages     = {3},
+  publisher = {1. Auflage, Springer Gabler Verlag},
+  title     = {Multi-Channel im stationären Einzelhandel},
+  year      = {2016},
+  isbn      = {3658130261},
+  doi       = {https://doi.org/10.1007/978-3-658-13027-5},
+  timestamp = {2022-12-13},
+}
+
+@InBook{Deichner2022,
+  author    = {Nils Deichner and Simone Sauerwein and Carina Freundl and Dr. Anja Peters and Dr. Georg Wittmann},
+  pages     = {11},
+  publisher = {1. Auflage, ibi-research},
+  title     = {ibi research - Konsumentenverhalten – quo vadis? Jahresstudie 2022 des ibi-Partnernetzwerks},
+  year      = {2022},
+  url       = {https://ibi.de/veroeffentlichungen/ibi-partnerstudie-2022},
+}
+
+@InBook{Vallee2018,
+  author    = {Franz Vallée and Colin Schulz and Andreas Pumpe},
+  pages     = {16},
+  publisher = {1. Auflage, Huss-Verlag},
+  title     = {Omnichannel im Handel - Was nicht nur Fashionbranche wissen sollte},
+  year      = {2018},
+  isbn      = {3946350763},
+  timestamp = {2022-12-13},
+}
+
+@Article{Handelsverband2022,
+  author    = {HDE Deutschland Handelsverband},
+  title     = {Online Monitor 2022 - Marktentwicklung im Online-Handel},
+  year      = {2022},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://link.springer.com/book/10.1007/978-3-658-23686-1},
+}
+
+@Article{Bundesamt2022,
+  author = {Statistisches Bundesamt},
+  title  = {Wirtschaftliche Auswirkungen - Statistiken mit Bezug zu COVID-19},
+  year   = {2022},
+  month  = jul,
+  url    = {https://www.destatis.de/DE/Themen/Querschnitt/Corona/Wirtschaft/kontextinformationen-wirtschaft.html#408870},
+}
+
+@Article{EYParthenon2020,
+  author    = {Insight EY-Parthenon},
+  title     = {Corona mischt die Karten neu - Inwiefern verändert die Krise unser Einkaufsverhalten und bisherige Erfolgsfaktoren im Handel?},
+  year      = {2020},
+  month     = jun,
+  timestamp = {2022-12-13},
+  url       = {https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/topics/strategy/ey-parthenon-2020-corona-mischt-die-karten-neu-performance-ranking.pdf},
+}
+
+@Article{Hofacker2016,
+  author    = {Lars Hofacker and Christoph Langenberg},
+  journal   = {EHI-Retail-Institute GmbH},
+  title     = {Omnichannel-Commerce 2016 - Services, Herausforderungenund Trends},
+  year      = {2016},
+  issn      = {978-3-87257-464-0},
+  timestamp = {2022-12-14},
+  url       = {978-3-87257-464-0},
+}
+
+@Article{Wortbedeutung.info2022,
+  author = {Wortbedeutung.info},
+  title  = {Wortbedeutung 'omni-'},
+  year   = {2022},
+  url    = {https://www.wortbedeutung.info/omni-/},
+}
+
+@InBook{Heinemann2013,
+  author    = {Gerrit Heinemann},
+  pages     = {20},
+  publisher = {Springer Gabler},
+  title     = {No-Line-Handel: Höchste Evolutionsstufe im Multi-Channeling},
+  year      = {2013},
+  isbn      = {978-3658008505},
+}
+
+@Article{GisclardBiondi2021,
+  author    = {Henri Gisclard-Biondi},
+  journal   = {appvizer.com},
+  title     = {The Different Sales Channels: How to Sell Your Product?},
+  year      = {2021},
+  month     = sep,
+  timestamp = {2022-12-15},
+  url       = {https://www.appvizer.com/magazine/customer/sales-mgt/sales-channel},
+}
+
+@Article{Grote2021,
+  author    = {Saskia Grote},
+  title     = {Was ist Omnichannel Marketing?},
+  year      = {2021},
+  month     = sep,
+  timestamp = {2022-12-15},
+  url       = {https://www.meltwater.com/de/blog/omnichannel-marketing},
+}
+
+@InBook{Wirtz2013,
+  author    = {Bernd W. Wirtz},
+  pages     = {201},
+  publisher = {Gabler Verlag Wiesbaden},
+  title     = {Multi-Channel-Marketing},
+  year      = {2013},
+  edition   = {2},
+  isbn      = {978-3-8349-4643-0},
+  month     = nov,
+  timestamp = {2023-01-31},
+}
+
+@Article{Touchpoints2022,
+  author    = {VuMA Touchpoints},
+  title     = {Den Markt im Blick},
+  year      = {2022},
+  month     = aug,
+  timestamp = {2023-02-01},
+  url       = {https://rms.de/RMS_Deutschland/Downloads/Weitere/VuMA_Berichtsband_2022.pdf},
+}
+
+@InBook{Meidl2014,
+  author    = {Oliver Meidl},
+  pages     = {6},
+  publisher = {Springer Gabler Wiesbaden},
+  title     = {Global Webshop},
+  year      = {2014},
+  isbn      = {978-3-658-08327-4},
+  month     = dec,
+  doi       = {https://doi.org/10.1007/978-3-658-08327-4},
+  timestamp = {2023-02-01},
+}
+
+@Article{Wikipedia2019,
+  author    = {Wikipedia},
+  title     = {COVID-19-Pandemie},
+  year      = {2019},
+  month     = sep,
+  timestamp = {2023-02-01},
+  url       = {https://de.wikipedia.org/wiki/COVID-19-Pand

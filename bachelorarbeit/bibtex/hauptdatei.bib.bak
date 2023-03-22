@@ -1,0 +1,510 @@
+@Book{Deges2020,
+  author    = {Frank Deges},
+  publisher = {1. Auflage, Springer Gabler Verlag},
+  title     = {Grundlagen des E-Commerce: Strategien, Modelle, Instrumente},
+  year      = {2020},
+  isbn      = {3658263199},
+  keywords  = {eCommerce},
+}
+
+@Book{Heinemann2021,
+  author    = {Gerrit Heinemann},
+  publisher = {12. Auflage, Springer Gabler Verlag},
+  title     = {Der neue Online-Handel: Geschäftsmodelle, Geschäftssysteme und Benchmarks im E-Commerce},
+  year      = {2021},
+  isbn      = {3658203536},
+  doi       = {https://doi.org/10.1007/978-3-658-23686-1},
+}
+
+@InBook{Wirtz2022,
+  author    = {Bernd W. Wirtz},
+  pages     = {20},
+  publisher = {3. überarbeitete Auflage, Springer Gabler Verlag},
+  title     = {Multi-Channel-Marketing: Grundlagen – Instrumente – Prozesse},
+  year      = {2022},
+  isbn      = {3658033444},
+  keywords  = {Omni-Channel, Multi-Channel, Marketing},
+  timestamp = {2022-12-14},
+  url       = {https://link.springer.com/book/10.1007/978-3-658-03345-3},
+}
+
+@Article{Feldkircher2020,
+  author    = {Oliver Feldkircher},
+  title     = {Kampf der Giganten: Amazon vs. eBay},
+  year      = {2020},
+  month     = aug,
+  timestamp = {2022-12-13},
+  url       = {https://www.massiveart.com/de-de/blog/kampf-der-giganten-amazon-vs-ebay},
+}
+
+@Article{Santink2015,
+  author    = {Joy L. Santink},
+  journal   = {thecanadianencyclopedia},
+  title     = {Timothy Eaton},
+  year      = {2015},
+  month     = mar,
+  timestamp = {2022-12-13},
+  url       = {https://www.thecanadianencyclopedia.ca/en/article/timothy-eaton},
+}
+
+@Article{Otto2022,
+  author    = {GmbH Otto},
+  title     = {Otto Geschäftsbericht 2021/2022},
+  year      = {2022},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://static.ottogroup.com/medien/cached/docs/de/bpk/2021-22/otto_group_geschaeftsbericht_2021_22.pdf},
+}
+
+@Article{Rabe2022,
+  author    = {L. Rabe},
+  title     = {Umsatz der Otto Group weltweit in den Geschäftsjahren 2007/08 bis 2021/22},
+  year      = {2022},
+  month     = jun,
+  timestamp = {2022-12-13},
+  url       = {https://de.statista.com/statistik/daten/studie/233607/umfrage/entwicklung-des-umsatzes-des-otto-konzerns/},
+}
+
+@Article{Deges2020a,
+  author    = {Frank Deges},
+  title     = {Internet Pure Player},
+  year      = {2020},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://wirtschaftslexikon.gabler.de/definition/internet-pure-player-122672/version-378820},
+}
+
+@Book{Chaffey2019,
+  author    = {Dave Chaffey},
+  publisher = {7. Auflage, Pearson},
+  title     = {Digital Business and E-Commerce Management},
+  year      = {2019},
+  isbn      = {1292193336},
+  month     = jun,
+}
+
+@InBook{Heinemann2011,
+  author    = {Gerrit Heinemann},
+  pages     = {23},
+  publisher = {3. Auflage, Springer Gabler Verlag},
+  title     = {Cross-Channel-Management. Integrationserfordernisse im Multi-Channel-Handel},
+  year      = {2011},
+  address   = {Wiesbaden},
+  isbn      = {3834926396},
+}
+
+@InBook{Buttkus2019,
+  author    = {Michael Buttkus and Ralf Eberenz},
+  pages     = {71},
+  publisher = {Springer Verlag, 1. Auflage},
+  title     = {Performance Management in Retail and the Consumer Goods Industry: Best Practices and Case Studies},
+  year      = {2019},
+  isbn      = {303012729X},
+  month     = jul,
+}
+
+@InBook{Heinemann2019,
+  author    = {Gerrit Heinemann},
+  pages     = {53},
+  publisher = {10. Auflage, Springer Gabler Verlag},
+  title     = {Der neue Online-Handel - Geschäftsmodelle, Geschäftssysteme und Benchmarks im E-Commerce},
+  year      = {2019},
+  address   = {Wiesbaden},
+  edition   = {10},
+  isbn      = {3658203536},
+  doi       = {https://doi.org/10.1007/978-3-658-23686-1},
+  timestamp = {2022-12-13},
+}
+
+@InBook{Jaeger2016,
+  author    = {Dr. Reingard Jäger},
+  pages     = {3},
+  publisher = {1. Auflage, Springer Gabler Verlag},
+  title     = {Multi-Channel im stationären Einzelhandel},
+  year      = {2016},
+  isbn      = {3658130261},
+  doi       = {https://doi.org/10.1007/978-3-658-13027-5},
+  timestamp = {2022-12-13},
+}
+
+@InBook{Deichner2022,
+  author    = {Nils Deichner and Simone Sauerwein and Carina Freundl and Dr. Anja Peters and Dr. Georg Wittmann},
+  pages     = {11},
+  publisher = {1. Auflage, ibi-research},
+  title     = {ibi research - Konsumentenverhalten – quo vadis? Jahresstudie 2022 des ibi-Partnernetzwerks},
+  year      = {2022},
+  url       = {https://ibi.de/veroeffentlichungen/ibi-partnerstudie-2022},
+}
+
+@InBook{Vallee2018,
+  author    = {Franz Vallée and Colin Schulz and Andreas Pumpe},
+  pages     = {16},
+  publisher = {1. Auflage, Huss-Verlag},
+  title     = {Omnichannel im Handel - Was nicht nur Fashionbranche wissen sollte},
+  year      = {2018},
+  isbn      = {3946350763},
+  timestamp = {2022-12-13},
+}
+
+@Article{Handelsverband2022,
+  author    = {HDE Deutschland Handelsverband},
+  title     = {Online Monitor 2022 - Marktentwicklung im Online-Handel},
+  year      = {2022},
+  month     = may,
+  timestamp = {2022-12-13},
+  url       = {https://link.springer.com/book/10.1007/978-3-658-23686-1},
+}
+
+@Article{Bundesamt2022,
+  author = {Statistisches Bundesamt},
+  title  = {Wirtschaftliche Auswirkungen - Statistiken mit Bezug zu COVID-19},
+  year   = {2022},
+  month  = jul,
+  url    = {https://www.destatis.de/DE/Themen/Querschnitt/Corona/Wirtschaft/kontextinformationen-wirtschaft.html#408870},
+}
+
+@Article{EYParthenon2020,
+  author    = {Insight EY-Parthenon},
+  title     = {Corona mischt die Karten neu - Inwiefern verändert die Krise unser Einkaufsverhalten und bisherige Erfolgsfaktoren im Handel?},
+  year      = {2020},
+  month     = jun,
+  timestamp = {2022-12-13},
+  url       = {https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/topics/strategy/ey-parthenon-2020-corona-mischt-die-karten-neu-performance-ranking.pdf},
+}
+
+@Article{Hofacker2016,
+  author    = {Lars Hofacker and Christoph Langenberg},
+  journal   = {EHI-Retail-Institute GmbH},
+  title     = {Omnichannel-Commerce 2016 - Services, Herausforderungenund Trends},
+  year      = {2016},
+  issn      = {978-3-87257-464-0},
+  timestamp = {2022-12-14},
+  url       = {978-3-87257-464-0},
+}
+
+@Article{Wortbedeutung.info2022,
+  author = {Wortbedeutung.info},
+  title  = {Wortbedeutung 'omni-'},
+  year   = {2022},
+  url    = {https://www.wortbedeutung.info/omni-/},
+}
+
+@InBook{Heinemann2013,
+  author    = {Gerrit Heinemann},
+  pages     = {20},
+  publisher = {Springer Gabler},
+  title     = {No-Line-Handel: Höchste Evolutionsstufe im Multi-Channeling},
+  year      = {2013},
+  isbn      = {978-3658008505},
+}
+
+@Article{GisclardBiondi2021,
+  author    = {Henri Gisclard-Biondi},
+  journal   = {appvizer.com},
+  title     = {The Different Sales Channels: How to Sell Your Product?},
+  year      = {2021},
+  month     = sep,
+  timestamp = {2022-12-15},
+  url       = {https://www.appvizer.com/magazine/customer/sales-mgt/sales-channel},
+}
+
+@Article{Grote2021,
+  author    = {Saskia Grote},
+  title     = {Was ist Omnichannel Marketing?},
+  year      = {2021},
+  month     = sep,
+  timestamp = {2022-12-15},
+  url       = {https://www.meltwater.com/de/blog/omnichannel-marketing},
+}
+
+@InBook{Wirtz2013,
+  author    = {Bernd W. Wirtz},
+  pages     = {201},
+  publisher = {Gabler Verlag Wiesbaden},
+  title     = {Multi-Channel-Marketing},
+  year      = {2013},
+  edition   = {2},
+  isbn      = {978-3-8349-4643-0},
+  month     = nov,
+  timestamp = {2023-01-31},
+}
+
+@Article{Touchpoints2022,
+  author    = {VuMA Touchpoints},
+  title     = {Den Markt im Blick},
+  year      = {2022},
+  month     = aug,
+  timestamp = {2023-02-01},
+  url       = {https://rms.de/RMS_Deutschland/Downloads/Weitere/VuMA_Berichtsband_2022.pdf},
+}
+
+@InBook{Meidl2014,
+  author    = {Oliver Meidl},
+  pages     = {6},
+  publisher = {Springer Gabler Wiesbaden},
+  title     = {Global Webshop},
+  year      = {2014},
+  isbn      = {978-3-658-08327-4},
+  month     = dec,
+  doi       = {https://doi.org/10.1007/978-3-658-08327-4},
+  timestamp = {2023-02-01},
+}
+
+@Article{Wikipedia2019,
+  author    = {Wikipedia},
+  title     = {COVID-19-Pandemie},
+  year      = {2019},
+  month     = sep,
+  timestamp = {2023-02-01},
+  url       = {https://de.wikipedia.org/wiki/COVID-19-Pandemie},
+}
+
+@InBook{Umbach2012,
+  author    = {Wilfried Umbach},
+  pages     = {11},
+  publisher = {Wiley-VCH},
+  title     = {Kosmetik und Hygiene},
+  year      = {2012},
+  edition   = {3},
+  isbn      = {9783527663507},
+  month     = may,
+  timestamp = {2023-02-01},
+}
+
+@Article{Haendlerbund2013,
+  author    = {Händlerbund},
+  title     = {Regelungen bei derKosmetikverordnung},
+  year      = {2013},
+  month     = jul,
+  timestamp = {2023-02-01},
+  url       = {https://www.haendlerbund.de/de/ratgeber/branchen/3844-kosmetikverordnung},
+}
+
+@Article{statista2022,
+  author    = {statista},
+  title     = {Umsatz im deutschen Kosmetik- und Körperpflegemarkt},
+  year      = {2022},
+  month     = aug,
+  timestamp = {2023-02-01},
+  url       = {https://de.statista.com/statistik/daten/studie/699406/umfrage/umsatzprognose-im-deutschen-kosmetik-und-koerperpflegemarkt/},
+}
+
+@Article{Oekotest2017,
+  author    = {Ökotest},
+  title     = {Wie Hersteller die Wirksamkeit ihrer Kosmetik belegen (oder auch nicht)},
+  year      = {2017},
+  month     = dec,
+  timestamp = {2023-02-01},
+  url       = {https://www.oekotest.de/kosmetik-wellness/Wie-Hersteller-die-Wirksamkeit-ihrer-Kosmetik-belegen-oder-auch-nicht-_109535_1.html},
+}
+
+@Article{Verbraucherzentrale2022,
+  author    = {Verbraucherzentrale},
+  title     = {Was ist Naturkosmetik?},
+  year      = {2022},
+  month     = dec,
+  timestamp = {2023-02-01},
+  url       = {https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/produkte/was-ist-naturkosmetik-26394},
+}
+
+@Article{Kenning2018,
+  author    = {Peter Kenning and Tobias Kollmann and Alexander Hennig and Willy Schneider},
+  title     = {Point of Sale (POS)},
+  year      = {2018},
+  timestamp = {2023-02-02},
+  url       = {https://wirtschaftslexikon.gabler.de/definition/point-sale-pos-46867/version-270141},
+}
+
+@Article{Heubel2019,
+  author    = {Martin Heubel},
+  title     = {Das AIDA-Modell},
+  year      = {2019},
+  month     = jan,
+  timestamp = {2023-02-02},
+  url       = {https://smartmarketingbreaks.eu/aida-werbewirkungsmodell/},
+}
+
+@Article{Duehning2021,
+  author    = {Dominik Dühning},
+  title     = {Omnichannel Commerce},
+  year      = {2021},
+  month     = nov,
+  timestamp = {2023-02-02},
+  url       = {https://www.magnolia-cms.com/de_DE/blog/omnichannel-commerce-definition-vorteile-herausforderungen.html},
+}
+
+@Article{Gutmann2020,
+  author    = {Cornelia Gutmann},
+  title     = {Warum die Customer Journey wichtig ist},
+  year      = {2020},
+  month     = dec,
+  timestamp = {2023-02-02},
+  url       = {https://coco.one/blog/customer-journey},
+}
+
+@InBook{Boeckenholt2018,
+  author    = {Ingo Böckenholt and Audrey Mehn and Arne Westermann},
+  pages     = {10, 26},
+  publisher = {Springer Gabler Wiesbaden},
+  title     = {Konzepte und Strategien für Omnichannel-Exzellenz},
+  year      = {2018},
+  isbn      = {978-3-658-20181-4},
+  month     = apr,
+  doi       = {https://doi.org/10.1007/978-3-658-20182-1},
+  timestamp = {2023-02-03},
+}
+
+@InBook{Pufe2017,
+  author    = {Iris Pufé},
+  pages     = {18},
+  publisher = {UVK Verlagsgesellschaft},
+  title     = {Nachhaltigkeit},
+  year      = {2017},
+  edition   = {3},
+  isbn      = {978-3-8252-8705-4},
+  month     = sep,
+  doi       = {10.36198/9783838587059},
+  timestamp = {2023-02-03},
+}
+
+@InBook{Winters2021,
+  author    = {Amelie Winters},
+  pages     = {10},
+  publisher = {Springer Fachmedien Wiesbaden},
+  title     = {Omni-Channel-Retailing},
+  year      = {2021},
+  edition   = {1},
+  isbn      = {978-3-658-34706-2},
+  month     = aug,
+  timestamp = {2023-02-03},
+}
+
+
+@Article{Flatley2021,
+  author    = {Annika Flatley},
+  journal   = {utopia},
+  title     = {Zertifizierte Naturkosmetik: Die wichtigsten Siegel},
+  year      = {2021},
+  month     = feb,
+  timestamp = {2023-02-03},
+  url       = {https://utopia.de/ratgeber/naturkosmetik-siegel/},
+}
+
+@Article{PETA2021,
+  author    = {PETA},
+  title     = {Trotz Verbot: Noch immer Tierversuche für Kosmetik in der EU},
+  year      = {2021},
+  month     = aug,
+  timestamp = {2023-02-03},
+  url       = {https://www.peta.de/neuigkeiten/tierversuche-fuer-kosmetik-in-der-eu/},
+}
+
+@Article{Simon2021,
+  author    = {Simon and Kutcher},
+  journal   = {Simon & Kutcher},
+  title     = {Global Sustainability Study 2021},
+  year      = {2021},
+  month     = oct,
+  timestamp = {2023-02-03},
+  url       = {https://www.simon-kucher.com/sites/default/files/studies/Simon-Kucher_Global_Sustainability_Study_2021.pdf},
+}
+
+@Article{BABOR2022,
+  author    = {BABOR},
+  title     = {Sustainability Report},
+  year      = {2022},
+  month     = apr,
+  timestamp = {2023-02-03},
+  url       = {https://de.babor.com/content/application/database/files/6/22902//bab-sustainability-broschuere-2022-neu.pdf},
+}
+
+@Article{Woromsbecher2021,
+  author    = {Anatolij Woromsbecher},
+  title     = {Headless Commerce: Mit Best-of-Breed-Ansatz zum Onlineshop der Zukunft},
+  year      = {2021},
+  month     = may,
+  timestamp = {2023-02-03},
+  url       = {https://www.e-commerce-magazin.de/headless-commerce-mit-best-of-breed-ansatz-zum-onlineshop-der-zukunft/},
+}
+
+@Article{Bundesverband2021,
+  author    = {Bundesververband Paket- & Expresslogistik},
+  title     = {KEP-Studie 2022 - Analyse des Marktes in Deutschland},
+  year      = {2022},
+  month     = jun,
+  timestamp = {2023-02-03},
+  url       = {https://www.biek.de/files/biek/downloads/papiere/BIEK_KEP-Studie_2022.pdf},
+}
+
+@Article{Bitkom2021,
+  author    = {Bitkom},
+  title     = {Anteil der Tabletnutzer in Deutschland},
+  year      = {2021},
+  month     = jan,
+  timestamp = {2023-02-03},
+  url       = {https://www.bitkom.org/Presse/Presseinformation/6-von-10-Bundesbuergern-nutzen-einen-Tablet-Computer},
+}
+
+@Article{statis2022,
+  author    = {Statistisches Bundesamt},
+  title     = {Wirtschaftliche Auswirkungen},
+  year      = {2022},
+  month     = dec,
+  timestamp = {2023-02-03},
+  url       = {https://www.destatis.de/DE/Themen/Querschnitt/Corona/Wirtschaft/kontextinformationen-wirtschaft.html#einzelhandel},
+}
+
+@InBook{Fasel2016,
+  author    = {Daniel Fasel and Andreas Meier},
+  pages     = {6},
+  title     = {Big Data},
+  year      = {2016},
+  edition   = {1},
+  isbn      = {978-3-658-11589-0},
+  month     = jun,
+  doi       = {https://doi.org/10.1007/978-3-658-11589-0},
+  timestamp = {2023-02-03},
+}
+
+@InBook{Kaiser2021,
+  author    = {Robert Kaiser},
+  pages     = {52},
+  publisher = {Springer Fachmedien Wiesbaden},
+  title     = {Qualitative Experteninterviews: Konzeptionelle Grundlagen und praktische Durchführung},
+  year      = {2021},
+  edition   = {2},
+  isbn      = {978-3658302542},
+  month     = sep,
+  doi       = {https://doi.org/10.1007/978-3-658-02479-6},
+  timestamp = {2023-02-09},
+}
+
+@InBook{Bogner2014,
+  author    = {Alexander Bogner and Beate Littig and Wolfgang Menz},
+  pages     = {52},
+  publisher = {Springer Fachmedien Wiesbaden},
+  title     = {Interviews mit Experten},
+  year      = {2014},
+  edition   = {1},
+  isbn      = {978-3-531-19416-5},
+  month     = aug,
+  doi       = {https://doi.org/10.1007/978-3-531-19416-5},
+  timestamp = {2023-02-09},
+}
+
+
+@InBook{Heinemann2016,
+  author    = {Gerrit Heinemann and Mathias Gehrckens and Uly Wolters and dgroup GmbH},
+  pages     = {426},
+  title     = {Digitale Transformation oder digitale Disruption im Handel},
+  year      = {2016},
+  edition   = {1},
+  isbn      = {978-3-658-13503-4},
+  month     = nov,
+  doi       = {https://doi.org/10.1007/978-3-658-13504-1},
+  timestamp = {2023-02-03},
+}
+
+
+
+@Comment{jabref-meta: databaseType:bibtex;}
